@@ -1,6 +1,11 @@
+
 # ☀️ WeatherApp | Aplicativo de Previsão do Tempo
 
 Este é um aplicativo móvel simples e moderno para previsão do tempo, desenvolvido com React Native (usando Expo) e TypeScript. Ele consome APIs externas para obter dados de geolocalização e previsão climática em tempo real.
+
+![WhatsApp Image 2025-11-26 at 23 56 21 (1)](https://github.com/user-attachments/assets/c759c789-87f7-436b-bdd8-7d806be768f7)   ![WhatsApp Image 2025-11-26 at 23 56 21](https://github.com/user-attachments/assets/4ffa1566-7e0c-4039-b910-5b78b5350060)
+
+
 
 ## ✨ Tecnologias
 
@@ -93,4 +98,5 @@ Verificação de Rede: Certifique-se de que a conexão LAN entre os dispositivos
 
 
 Sinta-se à vontade para abrir issues para bugs ou sugestões, e enviar pull requests com melhorias!
+
 
