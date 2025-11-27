@@ -53,7 +53,7 @@ Expo Go App: Instalado no seu smartphone (disponível na App Store ou Google Pla
 Abra o seu terminal e execute os comandos:
 
 ### 1. Clone o repositório
-git clone [\[URL\]](https://github.com/tcantunes/WeatherApp.git)
+git clone https://github.com/tcantunes/WeatherApp.git
 
 ### 2. Navegue até a pasta do projeto
 cd WeatherApp
@@ -93,3 +93,4 @@ Verificação de Rede: Certifique-se de que a conexão LAN entre os dispositivos
 
 
 Sinta-se à vontade para abrir issues para bugs ou sugestões, e enviar pull requests com melhorias!
+
